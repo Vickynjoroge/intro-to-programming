@@ -29,7 +29,7 @@
   }
   
   nav ul li:last-child {
-    margin-right: 0;
+    margin-right: 10;
   }
   
   nav ul li a {
@@ -39,7 +39,7 @@
   }
   
   nav ul li a:hover {
-    text-decoration: underline;
+    text-decoration: transparent;
   }
   
   /* Set styles for the main section */
